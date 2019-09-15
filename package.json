@@ -1,0 +1,32 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Testando as coisas em Node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^2.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devfuria/node-tests"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "mocha"
+  ],
+  "author": "Flávio Micheletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devfuria/node-tests/issues"
+  }
+}
