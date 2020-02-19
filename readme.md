@@ -1,7 +1,8 @@
-# Node testing
+![era para aparecer uma imagem tio](unit-testing-javascript-using-mocha-and-node.jpg)
 
-Testando as coisas em Node.
+# Unit testing JavaScript (mocha + node.js) 
 
+Testando as coisas em JavaScript no servidor (Node.js).
 
 Dependências
 
