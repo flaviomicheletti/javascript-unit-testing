@@ -42,3 +42,15 @@ Versão standalone, devez em quando funciona...
 
 
     7 passing (9ms)
+
+### Executar o lint
+
+    npm run-script lint
+
+    or
+
+    eslint --ext test
+
+    or 
+
+    npx eslint *.js test
