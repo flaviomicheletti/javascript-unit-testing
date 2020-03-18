@@ -26,19 +26,19 @@ Versão standalone, devez em quando funciona...
 
 ### Último teste executado
 
-  Array
-    IndexOf()
-      ✓ should return -1 when the value is not present
+    Array
+      IndexOf()
+        ✓ should return -1 when the value is not present
 
-  Map
-    Intro
-      ✓ Mapeando um array de números para um array de raízes quadradas
-      ✓ Mapeando um array de números usando uma função callback que contém um argumento
-      ✓ usando map genericamente
-    Usando map para inverter uma string
-      ✓ exemplo completo
-      ✓ exemplo passo a passo
-      ✓ A mesmíssima coisa só que sem map
+    Map
+      Intro
+        ✓ Mapeando um array de números para um array de raízes quadradas
+        ✓ Mapeando um array de números usando uma função callback que contém um argumento
+        ✓ usando map genericamente
+      Usando map para inverter uma string
+        ✓ exemplo completo
+        ✓ exemplo passo a passo
+        ✓ A mesmíssima coisa só que sem map
 
 
-  7 passing (9ms)
+    7 passing (9ms)
