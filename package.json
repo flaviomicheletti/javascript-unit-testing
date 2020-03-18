@@ -9,7 +9,8 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^6.2.2",
-    "should": "^13.2.3"
+    "should": "^13.2.3",
+    "minimist": ">=1.2.2"
   },
   "scripts": {
     "test": "use standalone execution"
