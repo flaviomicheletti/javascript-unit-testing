@@ -13,19 +13,32 @@ Instalando...
 
     npm install
 
+Testando
 
-Exemplo tdd
+    npm test
+    # mocha
 
-    suite('Foo,', function () {
-    suite('bar()', function () {
-        test('foo bar', function () {
-        assert.equal("foobar", foo.bar());
-        });
-    });
-    });
+
+Versão standalone, devez em quando funciona...
 
     ./node_modules/mocha/bin/mocha  --ui tdd
 
-Exemplo bdd...
+
+### Último teste executado
+
+  Array
+    IndexOf()
+      ✓ should return -1 when the value is not present
+
+  Map
+    Intro
+      ✓ Mapeando um array de números para um array de raízes quadradas
+      ✓ Mapeando um array de números usando uma função callback que contém um argumento
+      ✓ usando map genericamente
+    Usando map para inverter uma string
+      ✓ exemplo completo
+      ✓ exemplo passo a passo
+      ✓ A mesmíssima coisa só que sem map
 
 
+  7 passing (9ms)
