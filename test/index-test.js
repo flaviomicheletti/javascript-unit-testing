@@ -7,4 +7,4 @@ describe('Array', function () {
       assert.equal("foobar", foo.bar());
     });
   });
-})
+});

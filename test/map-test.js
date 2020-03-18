@@ -54,7 +54,7 @@ describe('Map', function () {
 
       let arr = [].map.call(str, function (x) {
         return x;
-      })
+      });
 
       should.deepEqual([ '1', '2', '3', '4', '5' ], arr);
       should.deepEqual([ '5', '4', '3', '2', '1' ], arr.reverse());
@@ -68,10 +68,4 @@ describe('Map', function () {
 
   });
 
-
-
-
-
-
-})
-
+});
