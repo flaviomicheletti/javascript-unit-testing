@@ -21,7 +21,7 @@ Testando
 
 Versão standalone, devez em quando funciona...
 
-    ./node_modules/mocha/bin/mocha  --ui tdd
+    ./node_modules/mocha/bin/mocha --ui tdd
 
 
 ### Último teste executado
