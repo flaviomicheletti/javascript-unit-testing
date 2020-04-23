@@ -1,5 +1,5 @@
 let assert = require('assert');
-let foo = require('../index.js');
+let foo = require('../src/foo.js');
 
 describe('Array', function () {
   describe('IndexOf()', function () {
