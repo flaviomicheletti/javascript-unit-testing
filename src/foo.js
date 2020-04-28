@@ -1,7 +1,7 @@
 let Foo = {};
 
 Foo.bar = function () {
-  return "foobar";
+	return "foobar";
 };
 
 module.exports = Foo;
