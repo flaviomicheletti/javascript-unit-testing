@@ -40,7 +40,7 @@ describe('Assert Throw', function () {
         try {
             assert.throws(x.y.z);
         } catch (err) {
-            assert.strictEqual(err.name, 'ReferenceError');            
+            assert.strictEqual(err.name, 'ReferenceError');
         }
 
         // assert.throw() is called with a function, which only throws
@@ -69,8 +69,3 @@ describe('Assert Throw', function () {
 
     })
 })
-
-
-
-
-
