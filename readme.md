@@ -1,4 +1,5 @@
-![era para aparecer uma imagem tio](unit-testing-javascript-using-mocha-and-node.jpg)
+![unit-testing-javascript-using-mocha-and-node](https://user-images.githubusercontent.com/1257048/86121588-9e3a8d00-baac-11ea-91ea-22be650314fb.jpg)
+
 
 # Unit testing JavaScript (mocha + node.js) 
 
