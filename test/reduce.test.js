@@ -10,7 +10,7 @@ describe('Array.prototype.reduce()', function () {
         try {
             assert.throws(array.reduce());
         } catch (err) {
-            // não dá para printar `èrr`
+            // não dá para printar `err`
             // console.log(err);
             should.ok(err);
             assert.strictEqual(err.name, 'ReferenceError');
@@ -24,7 +24,7 @@ describe('Array.prototype.reduce()', function () {
         try {
             assert.throws(array.reduce(array_vazio));
         } catch (err) {
-            // não dá para printar `èrr`
+            // não dá para printar `err`
             // console.log(err);
             should.ok(err);
             assert.strictEqual(err.name, 'ReferenceError');

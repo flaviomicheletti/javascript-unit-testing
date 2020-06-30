@@ -20,7 +20,7 @@ Testando
     # mocha
 
 
-Versão standalone, devez em quando funciona...
+Versão standalone, de vez em quando funciona...
 
     ./node_modules/mocha/bin/mocha --ui tdd
 
